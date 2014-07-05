@@ -69,6 +69,3 @@ Run it as follows:
     java -cp 'playlist-1.0-SNAPSHOT.jar;lib\*' StartJetty
 
 7. Visit the application at `http://localhost:8080/playlist`
-
-
-

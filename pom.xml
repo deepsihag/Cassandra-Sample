@@ -10,9 +10,9 @@
     <!-- Skip tests by default Change this to false or run mvn -DskipTests=false
         to run the tests -->
 
-    <properties>
+    <!-- <properties>
         <skipTests>true</skipTests>
-    </properties>
+    </properties>-->
 
     <build>
         <plugins>
